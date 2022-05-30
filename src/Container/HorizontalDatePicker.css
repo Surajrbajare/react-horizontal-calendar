@@ -1,0 +1,25 @@
+.selectedDate{
+    color: #2D8A01;
+    font-weight: 600;
+    font-size: 18px !important;
+    padding-top: 20px !important;
+    text-align: center !important;
+}
+.date{
+    color:gray;
+    font-size: 18px !important;
+    padding-top: 20px !important;
+    text-align: center !important;
+}
+.icon_btn{
+    background-color: #2D8A01;
+    color: #fff !important;
+    border-radius: 50%;
+    padding: 6px;
+    height: 35px !important;
+    width: 35px !important;
+}
+
+tr{
+    border:hidden !important;
+}
